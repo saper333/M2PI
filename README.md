@@ -9,3 +9,4 @@ Industry](https://m2pi.ca).  By working through the notebooks in this repository
 2. [Problem1](./Problem1.ipynb) and [Problem2](./Problem2.ipynb). These notebooks contain some longer problems to help you confirm your understanding of the material. They build on the material covered in the checkup and we've included hints to help you get started.
 
 For the taught portion of m2pi we will assume that you have read through the notes and are able to complete the two problem notebooks. This should leave you ready to understand the material on `numpy`, `pandas` and `sklearn` which we will cover during the workshop.
+this is is
